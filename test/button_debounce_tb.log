@@ -1,0 +1,150 @@
+FST info: dumpfile button_debounce_tb.fst opened for output.
+Test Button Debouncing
+Simulation Start
+Reset
+Run
+Bouncing!
+Bounce Time (ns):        6396
+[10025] Time Remaining:        4403, next delay:        1993
+[12018] Time Remaining:        2625, next delay:        1778
+[13796] Time Remaining:        1330, next delay:        1295
+[15091] Time Remaining:         902, next delay:         428
+[15519] Time Remaining:         698, next delay:         204
+[15723] Time Remaining:         440, next delay:         258
+[15981] Time Remaining:         422, next delay:          18
+[15999] Time Remaining:         406, next delay:          16
+[16015] Time Remaining:         393, next delay:          13
+[16028] Time Remaining:         252, next delay:         141
+[16169] Time Remaining:         179, next delay:          73
+[16242] Time Remaining:         100, next delay:          79
+[16321] Time Remaining:          69, next delay:          31
+[16352] Time Remaining:          56, next delay:          13
+[16365] Time Remaining:          28, next delay:          28
+[16393] Time Remaining:          27, next delay:           1
+[16394] Time Remaining:          15, next delay:          12
+[16406] Time Remaining:          10, next delay:           5
+[16411] Time Remaining:           6, next delay:           4
+[16415] Time Remaining:           5, next delay:           1
+Bouncing Hours!
+Bounce Time (ns):        9687
+[26175] Time Remaining:        7912, next delay:        1775
+[27950] Time Remaining:        6156, next delay:        1756
+[29706] Time Remaining:        3127, next delay:        3029
+[32735] Time Remaining:        1610, next delay:        1517
+[34252] Time Remaining:        1158, next delay:         452
+[34704] Time Remaining:         889, next delay:         269
+[34973] Time Remaining:         665, next delay:         224
+[35197] Time Remaining:         496, next delay:         169
+[35366] Time Remaining:         446, next delay:          50
+[35416] Time Remaining:         234, next delay:         212
+[35628] Time Remaining:         227, next delay:           7
+[35635] Time Remaining:         195, next delay:          32
+[35667] Time Remaining:         156, next delay:          39
+[35706] Time Remaining:         101, next delay:          55
+[35761] Time Remaining:          89, next delay:          12
+[35773] Time Remaining:          45, next delay:          44
+[35817] Time Remaining:          25, next delay:          20
+[35837] Time Remaining:          19, next delay:           6
+[35843] Time Remaining:          10, next delay:           9
+[35852] Time Remaining:           6, next delay:           4
+[35856] Time Remaining:           3, next delay:           3
+Bouncing!
+Bounce Time (ns):       10234
+[45875] Time Remaining:        5178, next delay:        5056
+[50931] Time Remaining:        2854, next delay:        2324
+[53255] Time Remaining:        1442, next delay:        1412
+[54667] Time Remaining:        1372, next delay:          70
+[54737] Time Remaining:         934, next delay:         438
+[55175] Time Remaining:         550, next delay:         384
+[55559] Time Remaining:         297, next delay:         253
+[55812] Time Remaining:         273, next delay:          24
+[55836] Time Remaining:         250, next delay:          23
+[55859] Time Remaining:         221, next delay:          29
+[55888] Time Remaining:         192, next delay:          29
+[55917] Time Remaining:         155, next delay:          37
+[55954] Time Remaining:         122, next delay:          33
+[55987] Time Remaining:          79, next delay:          43
+[56030] Time Remaining:          43, next delay:          36
+[56066] Time Remaining:          40, next delay:           3
+[56069] Time Remaining:          21, next delay:          19
+[56088] Time Remaining:          14, next delay:           7
+[56095] Time Remaining:          11, next delay:           3
+[56098] Time Remaining:          10, next delay:           1
+[56099] Time Remaining:           5, next delay:           5
+Bouncing Minutes!
+Bounce Time (ns):       10323
+[56105] Time Remaining:        9984, next delay:         339
+[56444] Time Remaining:        9442, next delay:         542
+[56986] Time Remaining:        8621, next delay:         821
+[57807] Time Remaining:        6213, next delay:        2408
+[60215] Time Remaining:        3575, next delay:        2638
+[62853] Time Remaining:        3420, next delay:         155
+[63008] Time Remaining:        2128, next delay:        1292
+[64300] Time Remaining:        1633, next delay:         495
+[64795] Time Remaining:        1575, next delay:          58
+[64853] Time Remaining:        1523, next delay:          52
+[64905] Time Remaining:         926, next delay:         597
+[65502] Time Remaining:         862, next delay:          64
+[65566] Time Remaining:         748, next delay:         114
+[65680] Time Remaining:         533, next delay:         215
+[65895] Time Remaining:         394, next delay:         139
+[66034] Time Remaining:         257, next delay:         137
+[66171] Time Remaining:         176, next delay:          81
+[66252] Time Remaining:         127, next delay:          49
+[66301] Time Remaining:          97, next delay:          30
+[66331] Time Remaining:          65, next delay:          32
+[66363] Time Remaining:          43, next delay:          22
+[66385] Time Remaining:          39, next delay:           4
+[66389] Time Remaining:          24, next delay:          15
+[66404] Time Remaining:          19, next delay:           5
+[66409] Time Remaining:          10, next delay:           9
+[66418] Time Remaining:           8, next delay:           2
+[66420] Time Remaining:           6, next delay:           2
+[66422] Time Remaining:           4, next delay:           2
+Bouncing Hours!
+Bounce Time (ns):        1789
+[76325] Time Remaining:        1674, next delay:         115
+[76440] Time Remaining:        1344, next delay:         330
+[76770] Time Remaining:        1302, next delay:          42
+[76812] Time Remaining:         673, next delay:         629
+[77441] Time Remaining:         538, next delay:         135
+[77576] Time Remaining:         530, next delay:           8
+[77584] Time Remaining:         389, next delay:         141
+[77725] Time Remaining:         208, next delay:         181
+[77906] Time Remaining:         138, next delay:          70
+[77976] Time Remaining:         127, next delay:          11
+[77987] Time Remaining:         117, next delay:          10
+[77997] Time Remaining:          79, next delay:          38
+[78035] Time Remaining:          73, next delay:           6
+[78041] Time Remaining:          46, next delay:          27
+[78068] Time Remaining:          29, next delay:          17
+[78085] Time Remaining:          15, next delay:          14
+[78099] Time Remaining:          10, next delay:           5
+[78104] Time Remaining:           9, next delay:           1
+[78105] Time Remaining:           8, next delay:           1
+[78106] Time Remaining:           4, next delay:           4
+Bouncing Minutes!
+Bounce Time (ns):        1359
+[87075] Time Remaining:         799, next delay:         560
+[87635] Time Remaining:         778, next delay:          21
+[87656] Time Remaining:         419, next delay:         359
+[88015] Time Remaining:         406, next delay:          13
+[88028] Time Remaining:         367, next delay:          39
+[88067] Time Remaining:         313, next delay:          54
+[88121] Time Remaining:         299, next delay:          14
+[88135] Time Remaining:         206, next delay:          93
+[88228] Time Remaining:         185, next delay:          21
+[88249] Time Remaining:         172, next delay:          13
+[88262] Time Remaining:         125, next delay:          47
+[88309] Time Remaining:         102, next delay:          23
+[88332] Time Remaining:          72, next delay:          30
+[88362] Time Remaining:          54, next delay:          18
+[88380] Time Remaining:          40, next delay:          14
+[88394] Time Remaining:          37, next delay:           3
+[88397] Time Remaining:          25, next delay:          12
+[88409] Time Remaining:          21, next delay:           4
+[88413] Time Remaining:          11, next delay:          10
+[88423] Time Remaining:           7, next delay:           4
+[88427] Time Remaining:           4, next delay:           3
+Closing
+button_debounce_tb.v:240: $finish called at 109075 (1ns)

@@ -1,0 +1,13 @@
+FST info: dumpfile display_controller_tb.fst opened for output.
+Test Display Controller Module
+Simulation Start
+Reset
+Run
+Testing: 00:00.00
+Timeout Count: 0x1f9e
+Testing: 12:30.59
+Timeout Count: 0x3f83
+Testing: 23:15.30
+Timeout Count: 0x3f83
+Closing
+display_controller_tb.v:210: $finish called at 821870 (1ns)

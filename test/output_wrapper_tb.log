@@ -1,0 +1,11 @@
+FST info: dumpfile output_wrapper_tb.fst opened for output.
+Test Display Output Wrapper Module
+Simulation Start
+Reset
+Run
+Writing Display Settings
+Testing: 00:00.00
+Testing: 12:30.59
+Testing: 23:15.30
+Closing
+output_wrapper_tb.v:221: $finish called at 9610 (1ns)

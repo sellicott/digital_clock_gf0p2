@@ -1,0 +1,35 @@
+# Makefile
+# See https://docs.cocotb.org/en/stable/quickstart.html for more info
+
+# defaults
+SIM ?= icarus
+TOPLEVEL_LANG ?= verilog
+SRC_DIR = $(PWD)/../src
+
+PDK_SOURCES =  $(PDK_ROOT)/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/verilog/primitives.v
+PDK_SOURCES += $(PDK_ROOT)/gf180mcuD/libs.ref/gf180mcu_fd_sc_mcu7t5v0/verilog/gf180mcu_fd_sc_mcu7t5v0.v
+
+# Gate level simulation:
+SIM_BUILD        = sim_build/gl
+COMPILE_ARGS    += -DGL_TEST
+COMPILE_ARGS    += -DFUNCTIONAL
+COMPILE_ARGS    += -DSIM
+VERILOG_SOURCES += $(PDK_SOURCES)
+
+# this gets copied in by the GDS action workflow
+VERILOG_SOURCES += $(PWD)/gate_level_netlist.v
+VERILOG_SOURCES += $(SRC_DIR)/input/refclk_sync.v
+VERILOG_SOURCES += $(SRC_DIR)/input/clk_gen.v
+VERILOG_SOURCES += $(SRC_DIR)/test/bcd_to_7seg.v
+VERILOG_SOURCES += $(SRC_DIR)/test/test_max7219_moc.v
+VERILOG_SOURCES += $(SRC_DIR)/test/test_7seg_to_bcd.v
+
+# Include the testbench sources:
+VERILOG_SOURCES += $(PWD)/tiny_tapeout_tb.v
+TOPLEVEL = tiny_tapeout_tb
+
+# MODULE is the basename of the Python test file
+MODULE = test
+
+# include cocotb's make rules to take care of the simulator setup
+include $(shell cocotb-config --makefiles)/Makefile.sim

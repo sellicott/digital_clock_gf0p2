@@ -1,0 +1,20 @@
+FST info: dumpfile max7219_settings_tb.fst opened for output.
+Test max7219_settings driver
+Simulation Start
+Reset
+Run
+Writing MAX7219 Settings
+Write Data:
+	Digit: 0
+	Data: 15
+Write Data:
+	Digit: 1
+	Data:  7
+Write Data:
+	Digit: 2
+	Data:  5
+Write Data:
+	Digit: 3
+	Data:  1
+Closing
+max7219_settings_tb.v:206: $finish called at 4090 (1ns)

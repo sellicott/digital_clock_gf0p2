@@ -1,0 +1,10 @@
+FST info: dumpfile clock_to_bcd_tb.fst opened for output.
+Test Conversion from Clock -> BCD
+Simulation Start
+Reset
+Run
+Testing: 00:00.00
+Testing: 12:30.59
+Testing: 23:15.30
+Closing
+clock_to_bcd_tb.v:139: $finish called at 590 (1ns)

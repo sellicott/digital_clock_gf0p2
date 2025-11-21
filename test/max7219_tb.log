@@ -1,0 +1,49 @@
+FST info: dumpfile max7219_tb.fst opened for output.
+Test max7219 driver
+Simulation Start
+Reset
+Run
+Write Data:
+	Address: 0x9
+	Data: 0xff
+Write Data:
+	Address: 0xa
+	Data: 0x07
+Write Data:
+	Address: 0xb
+	Data: 0x05
+Write Data:
+	Address: 0xc
+	Data: 0x01
+Write Data:
+	Address: 0x1
+	Data: 0x00
+Write Data:
+	Address: 0x2
+	Data: 0x01
+Write Data:
+	Address: 0x3
+	Data: 0x02
+Write Data:
+	Address: 0x4
+	Data: 0x03
+Write Data:
+	Address: 0x5
+	Data: 0x04
+Write Data:
+	Address: 0x6
+	Data: 0x05
+Write Data:
+	Address: 0x1
+	Data: 0x06
+Write Data:
+	Address: 0x2
+	Data: 0x07
+Write Data:
+	Address: 0x3
+	Data: 0x08
+Write Data:
+	Address: 0x4
+	Data: 0x09
+Closing
+max7219_tb.v:213: $finish called at 6950 (1ns)

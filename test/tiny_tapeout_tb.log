@@ -1,0 +1,160 @@
+FST info: dumpfile tb.vcd opened for output.
+Test Tiny Tapeout Wrapper
+Simulation Start
+Reset
+Run
+Set Hours
+Max Timeout:        5000
+Current Set Time: 00:00.00
+Current Set Time: 01:00.00
+Current Set Time: 02:00.00
+Current Set Time: 03:00.00
+Current Set Time: 04:00.00
+Current Set Time: 05:00.01
+Current Set Time: 06:00.01
+Current Set Time: 07:00.01
+Current Set Time: 08:00.01
+Current Set Time: 09:00.01
+Current Set Time: 10:00.01
+Time Set: 11:00.01
+Set Minutes
+Current Set Time: 11:00.01
+Current Set Time: 11:01.01
+Current Set Time: 11:02.02
+Current Set Time: 11:03.02
+Current Set Time: 11:04.02
+Current Set Time: 11:05.02
+Current Set Time: 11:06.02
+Current Set Time: 11:07.02
+Current Set Time: 11:08.02
+Current Set Time: 11:09.02
+Current Set Time: 11:10.03
+Current Set Time: 11:11.03
+Current Set Time: 11:12.03
+Current Set Time: 11:13.03
+Current Set Time: 11:14.03
+Current Set Time: 11:15.03
+Current Set Time: 11:16.03
+Current Set Time: 11:17.03
+Current Set Time: 11:18.04
+Current Set Time: 11:19.04
+Current Set Time: 11:20.04
+Current Set Time: 11:21.04
+Current Set Time: 11:22.04
+Current Set Time: 11:23.04
+Current Set Time: 11:24.04
+Current Set Time: 11:25.04
+Current Set Time: 11:26.05
+Current Set Time: 11:27.05
+Current Set Time: 11:28.05
+Current Set Time: 11:29.05
+Current Set Time: 11:30.05
+Current Set Time: 11:31.05
+Current Set Time: 11:32.05
+Current Set Time: 11:33.05
+Current Set Time: 11:34.06
+Current Set Time: 11:35.06
+Current Set Time: 11:36.06
+Current Set Time: 11:37.06
+Current Set Time: 11:38.06
+Current Set Time: 11:39.06
+Current Set Time: 11:40.06
+Current Set Time: 11:41.06
+Current Set Time: 11:42.07
+Current Set Time: 11:43.07
+Current Set Time: 11:44.07
+Current Set Time: 11:45.07
+Current Set Time: 11:46.07
+Current Set Time: 11:47.07
+Current Set Time: 11:48.07
+Current Set Time: 11:49.07
+Current Set Time: 11:50.08
+Current Set Time: 11:51.08
+Current Set Time: 11:52.08
+Current Set Time: 11:53.08
+Current Set Time: 11:54.08
+Current Set Time: 11:55.08
+Current Set Time: 11:56.08
+Current Set Time: 11:57.08
+Current Set Time: 11:58.09
+Time Set: 11:59.09
+Reset Seconds
+Time Set: 11:59.00
+Check 12h Mode
+Time Set: 11:59.00
+Run Clock
+Time Set: 12:00.00
+Check 12h Mode
+Time Set: 12:00.00
+Check 23->0 Rollover
+Set Hours
+Max Timeout:        5000
+Current Set Time: 12:00.00
+Current Set Time: 13:00.00
+Current Set Time: 14:00.00
+Current Set Time: 15:00.01
+Current Set Time: 16:00.01
+Current Set Time: 17:00.01
+Current Set Time: 18:00.01
+Current Set Time: 19:00.01
+Current Set Time: 20:00.01
+Current Set Time: 21:00.01
+Current Set Time: 22:00.01
+Set Minutes
+Current Set Time: 23:00.02
+Current Set Time: 23:01.02
+Current Set Time: 23:02.02
+Current Set Time: 23:03.02
+Current Set Time: 23:04.02
+Current Set Time: 23:05.02
+Current Set Time: 23:06.02
+Current Set Time: 23:07.02
+Current Set Time: 23:08.03
+Current Set Time: 23:09.03
+Current Set Time: 23:10.03
+Current Set Time: 23:11.03
+Current Set Time: 23:12.03
+Current Set Time: 23:13.03
+Current Set Time: 23:14.03
+Current Set Time: 23:15.03
+Current Set Time: 23:16.04
+Current Set Time: 23:17.04
+Current Set Time: 23:18.04
+Current Set Time: 23:19.04
+Current Set Time: 23:20.04
+Current Set Time: 23:21.04
+Current Set Time: 23:22.04
+Current Set Time: 23:23.04
+Current Set Time: 23:24.05
+Current Set Time: 23:25.05
+Current Set Time: 23:26.05
+Current Set Time: 23:27.05
+Current Set Time: 23:28.05
+Current Set Time: 23:29.05
+Current Set Time: 23:30.05
+Current Set Time: 23:31.05
+Current Set Time: 23:32.06
+Current Set Time: 23:33.06
+Current Set Time: 23:34.06
+Current Set Time: 23:35.06
+Current Set Time: 23:36.06
+Current Set Time: 23:37.06
+Current Set Time: 23:38.06
+Current Set Time: 23:39.06
+Current Set Time: 23:40.07
+Current Set Time: 23:41.07
+Current Set Time: 23:42.07
+Current Set Time: 23:43.07
+Current Set Time: 23:44.07
+Current Set Time: 23:45.07
+Current Set Time: 23:46.07
+Current Set Time: 23:47.07
+Current Set Time: 23:48.08
+Current Set Time: 23:49.08
+Current Set Time: 23:50.08
+Current Set Time: 23:51.08
+Current Set Time: 23:52.08
+Current Set Time: 23:53.08
+Current Set Time: 23:54.08
+Current Set Time: 23:55.08
+Current Set Time
